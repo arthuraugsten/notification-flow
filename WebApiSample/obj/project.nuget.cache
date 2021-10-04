@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHC/GlGPmzbFJW14AmFfdD8FKzfK4QXtkkxRbWgVDskLUwZ+f5D5RwMfM5YrtyzPkmgJ+dYYlGWlE0VxVyKjlA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\playground\\WebApiSample\\WebApiSample\\WebApiSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.2\\swashbuckle.aspnetcore.6.2.2.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.2\\swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
